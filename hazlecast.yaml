@@ -1,0 +1,4 @@
+#hazlecast:
+#   network:
+#     multicast:
+#       enabled: true
